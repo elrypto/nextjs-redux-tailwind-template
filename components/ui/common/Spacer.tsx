@@ -1,0 +1,1 @@
+export const Spacer = ({ size = '2' }) => (<div className={`mt-${size}`} />);
