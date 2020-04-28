@@ -8,4 +8,4 @@ suggested you use
 
 `yarn cdev` or `npm run cdev`
 
-which launches next in dev mode with concurrently which at the same time launches tsc (which also does type checking)
+which launches next in dev mode with concurrently which at the same time launches tsc (typescript type checker in watch mode)
